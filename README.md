@@ -1,4 +1,4 @@
 reading-group
 =============
 
-Reading group materials
+(This should be an introductory public-facing document. More content TBD.)
